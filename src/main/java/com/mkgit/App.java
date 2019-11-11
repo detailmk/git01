@@ -8,6 +8,8 @@ public class App
 {
     public static void main( String[] args )
     {
-        System.out.println( "Hello World!dev git test" );
+
+        System.out.println( "Hello World! git test" );
+        System.out.println( "Hello World! mk master" );
     }
 }
